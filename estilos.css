@@ -1,0 +1,56 @@
+/* Temas del segundo período*/
+
+.texto{
+   
+    font-size: 40px;
+    padding-top: 140px;
+    text-align: justify;
+    color: rgb(244, 237, 237);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.principal{
+   display: flex;
+     
+}
+body{
+    background-image: url("fondo.jpg");
+   
+
+}
+.titulo{
+font-size: 60px;
+color: rgb(55, 165, 255);
+text-align: center;
+font-family: fantasy;
+
+}
+
+.img1{
+    height: 455px;
+    width: 500px;
+    background-image: url("Captura.PNG");
+    background-repeat: no-repeat;
+    float: left;
+}
+.img2{
+    height: 510px;
+    width: 370px;
+    background-image: url("img 2.PNG");
+    background-repeat: no-repeat;
+    float: left;
+}
+.img3{
+ height: 410px;
+ width:  650px;
+ background-image: url("img 3.PNG");
+ background-repeat: no-repeat;
+ float: left;
+}
+.imgtec3{
+    height: 150px;
+    width: 200px;
+    background-image: url("descarga.jpeg");
+    background-repeat: no-repeat;
+    float: right;
+
+}
