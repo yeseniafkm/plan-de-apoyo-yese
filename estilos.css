@@ -2,55 +2,164 @@
 
 .texto{
    
-    font-size: 40px;
+    font-size: 50px;
     padding-top: 140px;
     text-align: justify;
-    color: rgb(244, 237, 237);
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: hsl(0, 0%, 100%);
+    text-align: center;
 }
 .principal{
    display: flex;
+
      
 }
-body{
-    background-image: url("fondo.jpg");
-   
-
+body{                                                                                                                                                                                 
+    
+    background-image: url(Ani.jpg)
+    
 }
 .titulo{
 font-size: 60px;
-color: rgb(55, 165, 255);
+color: hsl(0, 0%, 100%);
 text-align: center;
-font-family: fantasy;
+font-family: 'Times New Roman', Times, serif;
+
 
 }
 
-.img1{
-    height: 455px;
-    width: 500px;
-    background-image: url("Captura.PNG");
-    background-repeat: no-repeat;
-    float: left;
+.img{
+
+height: 478px;
+width: 710px;
+background-image: url(circuito.jpeg);
+float: left;
+
+
+
+
 }
+
 .img2{
-    height: 510px;
-    width: 370px;
-    background-image: url("img 2.PNG");
-    background-repeat: no-repeat;
-    float: left;
+
+    height: 500px;
+    width: 1150px;
+    background-image: url(Captura.PNG);
+    background-repeat: no-repeat
+    
+
+
 }
 .img3{
- height: 410px;
- width:  650px;
- background-image: url("img 3.PNG");
- background-repeat: no-repeat;
- float: left;
+
+    height: 500px;
+    width: 1150px;
+    background-image: url(descarga.jpeg);
+
+    background-repeat: no-repeat
+
+
+
+
+
 }
-.imgtec3{
-    height: 150px;
-    width: 200px;
-    background-image: url("descarga.jpeg");
-    background-repeat: no-repeat;
-    float: right;
+
+.img4{
+
+
+    height: 500px;
+    width: 1150px;
+    background-image: url(descarga\ \(1\).jpeg);
+
+    background-repeat: no-repeat
+
+
+}
+.img5{
+
+
+height: 478px;
+width: 710px;
+background-image: url(R.jpg);
+float: left;
+
+
+}
+.img6{
+
+    
+    Height: 800px;
+    width: 820px;
+    background-image: url(Profile-Male-Transparent.png);
+    float: left;
+
+}
+.IMG{
+
+
+    Height: 340PX;
+    width: 420px;
+    background-image: url(J.jpg);
+    float: center;
+display: flex;
+flex-direction: center;
+}
+.ImG{
+
+
+    Height: 300pX;
+    width: 800px;
+    background-image: url(escuchar-otros.jpg);
+    float: center;
+    display: flex;
+flex-direction: center;
+
+
+}
+.Img9{
+
+
+
+    Height: 750px;
+    width: 1050px;
+    background-image: url(Gráfico\ de\ Mapa\ Conceptual\ o\ Mental\ Investigación\ Proyecto\ Doodle\ A\ Mano\ Multicolor.png);
+    display: flex;
+flex-direction: center;
+
+}
+.ImG00{
+    Height: 395pX;
+    width: 545px;
+    background-image: url(ñ.jpeg);
+    float: center;
+    display: flex;
+flex-direction: center; 
+}
+.ImG000{
+
+    Height: 600px;
+    width: 900px;
+    background-image: url(violencia-2.webp);
+    float: center;
+    display: flex;
+flex-direction: center; 
+
+}
+.ImG07{
+    Height: 400px;
+    width: 747px;
+    background-image: url(ns.jpg);
+    float: center;
+    display: flex;
+flex-direction: center;   
+}
+.ImG077{
+
+    Height: 660px;
+    width: 1300px;
+    background-image: url(lp.jpeg);
+    float: left;
+    display: flex;
+flex-direction: column;   
+
 
 }
