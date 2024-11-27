@@ -5,7 +5,7 @@
     font-size: 50px;
     padding-top: 140px;
     text-align: justify;
-    color: hsl(0, 0%, 100%);
+    color: hsl(0, 0%, 0%);
     text-align: center;
 }
 .principal{
@@ -15,12 +15,12 @@
 }
 body{                                                                                                                                                                                 
     
-    background-image: url(Ani.jpg)
+    background-image: url(RRR.webp)
     
 }
 .titulo{
 font-size: 60px;
-color: hsl(0, 0%, 100%);
+color: hsl(0, 0%, 0%);
 text-align: center;
 font-family: 'Times New Roman', Times, serif;
 
@@ -117,13 +117,12 @@ flex-direction: center;
 }
 .Img9{
 
-
-
-    Height: 750px;
-    width: 1050px;
-    background-image: url(Gráfico\ de\ Mapa\ Conceptual\ o\ Mental\ Investigación\ Proyecto\ Doodle\ A\ Mano\ Multicolor.png);
+height: 600px;
+width: 1050px;
+background-image: url(Grafico\ Mapa\ Conceptual\ Esquema\ Original\ Multicolor.png);
     display: flex;
-flex-direction: center;
+    flex-direction: center;
+float: center;
 
 }
 .ImG00{
@@ -161,5 +160,29 @@ flex-direction: center;
     display: flex;
 flex-direction: column;   
 
+
+}
+.ImG1{
+
+    height: 500px;
+width: 700px;
+background-image: url(WhatsApp\ Image\ 2024-11-26\ at\ 10.51.21\ PM\ -\ Acceso\ directo.lnk);
+float: center
+display: flex;
+flex-direction: column;
+
+
+
+}
+
+.IP{
+
+
+height: 10S00px;
+width: 1500px;
+background-image: url(FKK\ -\ Acceso\ directo.lnk);
+float: center;
+display: flex;
+flex-direction: column;
 
 }
